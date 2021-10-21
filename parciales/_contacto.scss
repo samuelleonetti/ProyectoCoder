@@ -1,0 +1,21 @@
+/*FORMULARIO DE CONTACTO */
+
+@import "./vars";
+
+.contacto {
+    background-color: $colorfondo;
+
+
+
+ &__legend {
+    font-family: 'Caveat', cursive;
+    color: black;
+    font-size: 1.70rem;
+    padding: 10px
+  }
+}
+  
+  .estilo-logo {
+    font-size: 2.20rem;
+    color: white; }
+
